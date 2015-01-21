@@ -1,0 +1,12 @@
+package com.temp;
+
+public class TestClass {
+	
+	private String empId;
+	
+	private String name;
+	
+	
+	
+
+}
